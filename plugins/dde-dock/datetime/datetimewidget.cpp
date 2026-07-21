@@ -117,7 +117,7 @@ void DatetimeWidget::updateDateTimeString()
         timeStr = locale.toString(current, timeFormat);
         dateString = locale.toString(current.date(), m_regionFormat->getShortDateFormat());
 
-        m_timeLabel->setText(timeStr);
+        m_timeLabel->setText(timeStr + current.toString(":ss"));
         m_dateLabel->setText(dateString);
     } else {
         if (!m_24HourFormat) {
@@ -132,7 +132,7 @@ void DatetimeWidget::updateDateTimeString()
             timeStr = locale.toString(current.time(), m_regionFormat->getShortTimeFormat());
         }
 
-        m_timeLabel->setText(timeStr);
+        m_timeLabel->setText(timeStr + current.toString(":ss"));
         dateString = locale.toString(current.date(), m_regionFormat->getShortDateFormat());
         m_dateLabel->setText(dateString);
     }
