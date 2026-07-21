@@ -413,6 +413,10 @@
         <source>Notification</source>
         <translation>Notification</translation>
     </message>
+    <message>
+        <source>Clear all notifications</source>
+        <translation>Clear all notifications</translation>
+    </message>
 </context>
 <context>
     <name>OnboardPlugin</name>

@@ -411,6 +411,10 @@
         <source>Notification</source>
         <translation>通知</translation>
     </message>
+    <message>
+        <source>Clear all notifications</source>
+        <translation>清除所有消息</translation>
+    </message>
 </context>
 <context>
     <name>OnboardPlugin</name>
