@@ -15,6 +15,7 @@ Q_LOGGING_CATEGORY(qLcPluginNotification, "dock.plugin.notification")
 
 #define PLUGIN_STATE_KEY        "enable"
 #define TOGGLE_DND              "toggle-dnd"
+#define CLEAR_ALL               "clear-all"
 #define NOTIFICATION_SETTINGS   "notification-settings"
 
 DGUI_USE_NAMESPACE
@@ -113,6 +114,12 @@ const QString NotificationPlugin::itemContextMenu(const QString &itemKey)
     toggleDnd["isCheckable"] = false;
     toggleDnd["isActive"] = true;
     items.push_back(toggleDnd);
+    QMap<QString, QVariant> clearAll;
+    clearAll["itemId"] = CLEAR_ALL;
+    clearAll["itemText"] = tr("Clear all notifications");
+    clearAll["isCheckable"] = false;
+    clearAll["isActive"] = true;
+    items.push_back(clearAll);
     QMap<QString, QVariant> notificationSettings;
     notificationSettings["itemId"] = NOTIFICATION_SETTINGS;
     notificationSettings["itemText"] = tr("Notification settings");
@@ -132,6 +139,9 @@ void NotificationPlugin::invokedMenuItem(const QString &itemKey, const QString &
     Q_UNUSED(checked)
     if (menuId == TOGGLE_DND) {
         m_notification->setDndMode(!m_notification->dndMode());
+    } else if (menuId == CLEAR_ALL) {
+        QDBusInterface iface("org.deepin.dde.Notification1", "/org/deepin/dde/Notification1", "org.deepin.dde.Notification1");
+        iface.call("ClearRecords");
     } else if (menuId == NOTIFICATION_SETTINGS) {
         QStringList args {"--by-user", "org.deepin.dde.control-center", "--", "-p", "notification"};
         QProcess::startDetached("dde-am", args);
