@@ -28,6 +28,7 @@ public:
 
     bool dndMode() const;
     void setDndMode(bool dnd);
+    void clearRecords();
     uint notificationCount() const;
 
     void watchNotification(bool newNotification);

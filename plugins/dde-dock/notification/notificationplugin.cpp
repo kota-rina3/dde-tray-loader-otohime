@@ -140,8 +140,7 @@ void NotificationPlugin::invokedMenuItem(const QString &itemKey, const QString &
     if (menuId == TOGGLE_DND) {
         m_notification->setDndMode(!m_notification->dndMode());
     } else if (menuId == CLEAR_ALL) {
-        QDBusInterface iface("org.deepin.dde.Notification1", "/org/deepin/dde/Notification1", "org.deepin.dde.Notification1");
-        iface.call("ClearRecords");
+        m_notification->clearRecords();
     } else if (menuId == NOTIFICATION_SETTINGS) {
         QStringList args {"--by-user", "org.deepin.dde.control-center", "--", "-p", "notification"};
         QProcess::startDetached("dde-am", args);

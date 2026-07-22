@@ -74,6 +74,17 @@ void Notification::setDndMode(bool dnd)
     }
 }
 
+void Notification::clearRecords()
+{
+    if (m_dbus) {
+        m_dbus->call(QLatin1String("ClearRecords"));
+    }
+    m_notificationCount = 0;
+    m_hasNewNotification = false;
+    Q_EMIT notificationCountChanged(0);
+    Q_EMIT notificationStatusChanged();
+}
+
 uint Notification::notificationCount() const
 {
     return m_notificationCount;
