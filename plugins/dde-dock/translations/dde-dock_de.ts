@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>Montag</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>Dienstag</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>Mittwoch</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>Donnerstag</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>Freitag</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>Samstag</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>Sonntag</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>Montag</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>Dienstag</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>Mittwoch</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>Donnerstag</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>Freitag</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>Samstag</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>Sonntag</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -439,6 +380,13 @@
     </message>
     <message>
         <source>Balance Performance</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
         <translation type="unfinished"/>
     </message>
 </context>

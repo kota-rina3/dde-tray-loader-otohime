@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>Thứ hai</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>Thứ ba</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>Thứ tư</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>Thứ năm</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>Thứ sáu</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>Thứ bảy</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>Chủ nhật</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>thứ hai</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>thứ hai</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>thứ ba</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>thứ tư</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>thứ năm</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>thứ sáu</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>chủ nhật</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -440,6 +381,13 @@
     <message>
         <source>Balance Performance</source>
         <translation>Đa hiệu năng</translation>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

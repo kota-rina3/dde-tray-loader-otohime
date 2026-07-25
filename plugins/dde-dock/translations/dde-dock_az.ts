@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>Bazar ertəsi</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>Çərşənbə axşamı</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>Çərşənbə</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>Cümə axşamı</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>Cümə</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>Şənbə</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>Bazar</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>bazar ertəsi</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>çərşənbə axşamı</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>çərşənbə</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>cümə axşamı</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>cümə</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>şənbə</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>bazar</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -440,6 +381,13 @@
     <message>
         <source>Balance Performance</source>
         <translation>Yaxşı Yükləmə</translation>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

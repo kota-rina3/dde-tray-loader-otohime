@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>יום שני</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>יום שלישי</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>יום רביעי</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>יום חמישי</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>יום שישי</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>יום שבת</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>יום ראשון</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>יום שני</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>יום שלישי</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>יום רביעי</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>יום חמישי</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>יום שישי</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>יום שבת</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>יום ראשון</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -439,6 +380,13 @@
     </message>
     <message>
         <source>Balance Performance</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
         <translation type="unfinished"/>
     </message>
 </context>

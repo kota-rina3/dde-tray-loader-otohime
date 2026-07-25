@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>ອາທິດ</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>ພັນຫັດ</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>ພັງສາ</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>ສຸກ</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>ເສັ້ນ</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>ເສາມ</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>ອາທິດ</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>ອາທິດ</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>ພັນຫັດ</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>ພັງສາ</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>ສຸກ</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>ເສັ້ນ</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>ສາາວານມືການ</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>ສາາວານອາທິດ</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -440,6 +381,13 @@
     <message>
         <source>Balance Performance</source>
         <translation>ປະສິທຘິພາບສົມດຸນ</translation>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

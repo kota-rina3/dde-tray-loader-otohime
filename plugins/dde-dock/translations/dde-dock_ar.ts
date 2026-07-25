@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>الاثنين</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>الثلاثاء</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>الأربعاء</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>الخميس</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>الجمعة</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>السبت</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>الأحد</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>الاثنين</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>الثلاثاء</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>الأربعاء</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>الخميس</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>جمعة</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>سبت</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>أحد</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -440,6 +381,13 @@
     <message>
         <source>Balance Performance</source>
         <translation>توازن الأداء</translation>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

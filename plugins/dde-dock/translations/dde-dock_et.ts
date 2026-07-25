@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>Esmaspäev</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>Teisipäev</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>Kolmapäev</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>Neljapäev</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>Reede</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>Laupäev</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>Pühapäev</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>Esmaspäev</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>Teisipaev</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>Kuupaev</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>Reede</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>Laupäev</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>Pühapäev</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>Esmaspäev</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -440,6 +381,13 @@
     <message>
         <source>Balance Performance</source>
         <translation>Tasakaalustatud täpne</translation>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>Pirmadienis</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>Antradienis</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>Trečiadienis</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>Ketvirtadienis</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>Penktadienis</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>Šeštadienis</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>Sekmadienis</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>pirmadienis</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>antradienis</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>trečiadienis</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>ketvirtadienis</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>penktadienis</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>šeštadienis</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>sekmadienis</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -440,6 +381,13 @@
     <message>
         <source>Balance Performance</source>
         <translation>Lygiavertis efektas</translation>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

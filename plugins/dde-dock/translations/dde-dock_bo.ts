@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>གཟའ་ཟླ་བ།</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>གཟའ་མིག་དམར།</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>གཟའ་ལྷག་པ།</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>གཟའ་ཕུར་བུ།</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>གཟའ་པ་སངས།</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>གཟའ་སྤེན་པ།</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>གཟའ་ཉི་མ།</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>གཟའ་ཟླ་བ། </translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>གཟའ་མིག་དམར།</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>གཟའ་ལྷག་པ།</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>གཟའ་ཕུར་བུ།</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>གཟའ་པ་སངས།</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>གཟའ་སྤེན་པ།</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>གཟའ་ཉི་མ།</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -439,6 +380,13 @@
     </message>
     <message>
         <source>Balance Performance</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
         <translation type="unfinished"/>
     </message>
 </context>

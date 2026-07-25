@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>Hétfő</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>Kedd</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>Szerda</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>Csütörtök</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>Péntek</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>Szombat</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>Vasárnap</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>Hétfő</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>Kedd</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>Szerda</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>Csütörtök</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>Péntek</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>Szombat</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>Vasárnap</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -440,6 +381,13 @@
     <message>
         <source>Balance Performance</source>
         <translation>Kiegyensúlyozott teljesítményű</translation>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

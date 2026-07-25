@@ -19,7 +19,7 @@
     </message>
     <message>
         <source>Airplane Mode</source>
-        <translation>Modo Avião</translation>
+        <translation>Modo avião</translation>
     </message>
     <message>
         <source>Airplane mode settings</source>
@@ -30,7 +30,7 @@
     <name>AirplaneModePlugin</name>
     <message>
         <source>Airplane Mode</source>
-        <translation>Modo Avião</translation>
+        <translation>Modo avião</translation>
     </message>
 </context>
 <context>
@@ -172,7 +172,7 @@
     <name>DatetimePlugin</name>
     <message>
         <source>Datetime</source>
-        <translation>Data e Hora</translation>
+        <translation>Data e hora</translation>
     </message>
     <message>
         <source>12-hour time</source>
@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>Segunda-feira</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>Terça-feira</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>Quarta-feira</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>Quinta-feira</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>Sexta-feira</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>Sábado</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>Domingo</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>segunda-feira</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>terça-feira</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>quarta-feira</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>quinta-feira</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>sexta-feira</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>sábado</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>domingo</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -261,11 +202,11 @@
     <name>DndModeItem</name>
     <message>
         <source>DND Mode</source>
-        <translation>Modo Não Perturbe</translation>
+        <translation>Modo não perturbe</translation>
     </message>
     <message>
         <source>DND mode settings</source>
-        <translation>Configurações do modo Não Perturbe</translation>
+        <translation>Configurações do modo não perturbe</translation>
     </message>
     <message>
         <source>Disable</source>
@@ -277,18 +218,18 @@
     </message>
     <message>
         <source>DND mode enabled</source>
-        <translation>Modo Não Perturbe ativado</translation>
+        <translation>Modo não perturbe ativado</translation>
     </message>
     <message>
         <source>DND mode disabled</source>
-        <translation>Modo Não Perturbe desativado</translation>
+        <translation>Modo não perturbe desativado</translation>
     </message>
 </context>
 <context>
     <name>DndModePlugin</name>
     <message>
         <source>DND Mode</source>
-        <translation>Modo Não Perturbe</translation>
+        <translation>Modo não perturbe</translation>
     </message>
 </context>
 <context>
@@ -401,11 +342,11 @@
     </message>
     <message>
         <source>Turn off DND mode</source>
-        <translation>Desativar o modo Não Perturbe</translation>
+        <translation>Modo não perturbe</translation>
     </message>
     <message>
         <source>Turn on DND mode</source>
-        <translation>Ativar o modo Não Perturbe</translation>
+        <translation>Modo não perturbe</translation>
     </message>
     <message>
         <source>Notification</source>
@@ -440,6 +381,13 @@
     <message>
         <source>Balance Performance</source>
         <translation>Desempenho Equilibrado</translation>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

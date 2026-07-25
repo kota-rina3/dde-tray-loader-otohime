@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>星期一</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>星期二</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>星期三</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>星期四</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>星期五</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>星期六</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>星期日</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>周一</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>周二</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>周三</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>周四</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>周五</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>周六</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>周日</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -444,6 +385,13 @@
     <message>
         <source>Balance Performance</source>
         <translation>性能模式</translation>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
+        <translation>断 开</translation>
     </message>
 </context>
 <context>

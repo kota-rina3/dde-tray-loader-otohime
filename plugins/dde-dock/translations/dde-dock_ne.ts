@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>सोमबार</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>मंगलबार</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>बुधबार</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>बिहिबार</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>शुक्रबार</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>शनिबार</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>आइतबार</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>मङ्दावस</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>बुधवास</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>बीविषावस</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>गुरुवास</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>शुक्रवास</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>शनिवास</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>रविवास</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -440,6 +381,13 @@
     <message>
         <source>Balance Performance</source>
         <translation>प्रदर्शन समान्तराल</translation>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

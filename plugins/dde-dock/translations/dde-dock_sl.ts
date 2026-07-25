@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>Ponedeljek</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>Torek</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>Sreda</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>Četrtek</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>Petek</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>Sobota</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>Nedelja</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>ponedeljek</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>ponedeljek</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>toreg</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>sreda</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>četrtek</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>petek</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>sobota</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -440,6 +381,13 @@
     <message>
         <source>Balance Performance</source>
         <translation>Prilagodljiva vire</translation>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

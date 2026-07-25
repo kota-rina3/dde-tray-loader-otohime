@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>月曜日</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>火曜日</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>水曜日</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>木曜日</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>金曜日</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>土曜日</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>日曜日</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>月曜日</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>火曜日</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>水曜日</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>木曜日</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>金曜日</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>土曜日</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>日曜日</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -440,6 +381,13 @@
     <message>
         <source>Balance Performance</source>
         <translation>バランスパフォーマンス</translation>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

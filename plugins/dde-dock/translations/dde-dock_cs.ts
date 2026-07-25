@@ -192,65 +192,6 @@
     </message>
 </context>
 <context>
-    <name>DatetimeWidget</name>
-    <message>
-        <source>Monday</source>
-        <translation>pondělí</translation>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation>úterý</translation>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation>středa</translation>
-    </message>
-    <message>
-        <source>Thursday</source>
-        <translation>čtvrtek</translation>
-    </message>
-    <message>
-        <source>Friday</source>
-        <translation>pátek</translation>
-    </message>
-    <message>
-        <source>Saturday</source>
-        <translation>sobota</translation>
-    </message>
-    <message>
-        <source>Sunday</source>
-        <translation>neděle</translation>
-    </message>
-    <message>
-        <source>monday</source>
-        <translation>pondělí</translation>
-    </message>
-    <message>
-        <source>tuesday</source>
-        <translation>úterý</translation>
-    </message>
-    <message>
-        <source>wednesday</source>
-        <translation>středa</translation>
-    </message>
-    <message>
-        <source>thursday</source>
-        <translation>čtvrtek</translation>
-    </message>
-    <message>
-        <source>friday</source>
-        <translation>pátek</translation>
-    </message>
-    <message>
-        <source>saturday</source>
-        <translation>sobota</translation>
-    </message>
-    <message>
-        <source>sunday</source>
-        <translation>neděle</translation>
-    </message>
-</context>
-<context>
     <name>DeviceControlWidget</name>
     <message>
         <source>Other Devices</source>
@@ -439,6 +380,13 @@
     </message>
     <message>
         <source>Balance Performance</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>PluginItemWidget</name>
+    <message>
+        <source>Disconnect</source>
         <translation type="unfinished"/>
     </message>
 </context>
